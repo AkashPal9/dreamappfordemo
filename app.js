@@ -1,6 +1,4 @@
-const { User,} = require('../dreamBackend-main/src/models/user');
-const {handledimonds}=require("./src/controllers/version 2.0/users")
-const {Gift}=require("./src/models")
+
 const createError = require("http-errors");
 const express = require("express");
 const path = require("path");
